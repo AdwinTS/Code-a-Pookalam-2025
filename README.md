@@ -19,7 +19,6 @@ Additionally, a custom text message is displayed on top of the design.
 - Dynamic flower patterns using loops and trigonometry  
 - Colorful, intricate design based on traditional Pookalam aesthetics  
 - Custom message written on top of the design  
-- Interactive exit by clicking the window
 
 ---
 
