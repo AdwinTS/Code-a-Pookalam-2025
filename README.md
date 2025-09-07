@@ -32,15 +32,15 @@ Additionally, a custom text message is displayed on top of the design.
 ### Steps:
 1. Download or clone the repository:
     ```bash
-    git clone https://github.com/YourUsername/AdwinT_2025_MEC.git
+    git clone https://github.com/AdwinTS/Code-a-Pookalam-2025.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd AdwinT_2025_MEC
+    cd Code-a-Pookalam-2025
     ```
 3. Run the Python file:
     ```bash
-    python pookalam.py
+    python AdwinTSunil_2025_MEC.py
     ```
 
 ---
