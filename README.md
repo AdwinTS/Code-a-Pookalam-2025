@@ -46,10 +46,7 @@ Additionally, a custom text message is displayed on top of the design.
 ---
 
 ## 📸 Screenshot of Final Pookalam
-
-![Pookalam Screenshot](./pookalam_screenshot.png)
-
----
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6a64f305-b38b-4e14-8097-6556603c292e" />
 
 ## 🎥 Video
 
