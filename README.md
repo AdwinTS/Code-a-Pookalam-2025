@@ -67,12 +67,6 @@ CS Student | Creative Coder | Onam Celebrations Enthusiast
 
 ---
 
-## 📎 License
-
-This project is open for educational purposes. Feel free to use and modify it for your own learning.
-
----
-
 ## 🚀 Repository Link
 
 👉 [GitHub Repository Link Here](https://github.com/YourUsername/AdwinT_2025_MEC)
