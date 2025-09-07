@@ -60,7 +60,7 @@ https://github.com/user-attachments/assets/9283ee8d-b673-438f-adeb-a7cf2e8e3f69
 ## 🧑‍💻 Author
 
 **Adwin T Sunil**  
-CS Student | Creative Coder | Onam Celebrations Enthusiast
+CS Student | Creative Coder 
 
 ---
 
