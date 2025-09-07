@@ -67,6 +67,3 @@ CS Student | Creative Coder | Onam Celebrations Enthusiast
 
 ---
 
-## 🚀 Repository Link
-
-👉 [GitHub Repository Link Here](https://github.com/YourUsername/AdwinT_2025_MEC)
